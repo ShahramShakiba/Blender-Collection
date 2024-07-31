@@ -44,7 +44,31 @@
       </h4>
       <img src="https://github.com/user-attachments/assets/5127e337-294e-4e19-a811-d04934448eb0" alt="Blender Planet and Rocket" width="100%"/>
     </td>
-       <!--======= Architectural Columns -->
+    <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> 
+         <br/>
+      </h4>
+      <img src="" alt="" width="100%"/>
+    </td>
+     <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> 
+         <br/>
+      </h4>
+      <img src="" alt="" width="100%"/>
+    </td>
+ </tr>
+
+   <tr>
+    <!--======= Crystal -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> 
+        Crystal <br/>
+      </h4>
+      <img src="https://github.com/user-attachments/assets/48cdc42d-9acc-45e3-8a4d-7840d64a11bf" alt="Crystal" width="100%"/>
+    </td>
+        <!--======= Architectural Columns -->
    <td style="vertical-align: top; width: 33%;">
       <h4> 
         Architectural Columns <br/>
@@ -57,30 +81,6 @@
         Sheep <br/>
       </h4>
       <img src="https://github.com/user-attachments/assets/4a40cc1c-de1c-47ce-b9ef-09403532a588" alt="Sheep" width="100%"/>
-    </td>
- </tr>
-
-   <tr>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> 
-         <br/>
-      </h4>
-      <img src="" alt="" width="100%"/>
-    </td>
-     <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> 
-         <br/>
-      </h4>
-      <img src="" alt="" width="100%"/>
-    </td>
-     <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> 
-         <br/>
-      </h4>
-      <img src="" alt="" width="100%"/>
     </td>
    </tr>
 </table>
