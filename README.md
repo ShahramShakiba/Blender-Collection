@@ -44,6 +44,13 @@
       </h4>
       <img src="https://github.com/user-attachments/assets/5127e337-294e-4e19-a811-d04934448eb0" alt="Blender Planet and Rocket" width="100%"/>
     </td>
+       <!--======= Architectural Columns -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> 
+        Architectural Columns <br/>
+      </h4>
+      <img src="https://github.com/user-attachments/assets/0f9e6266-514b-4049-9a46-d951d0465d85" alt="Architectural Columns" width="100%"/>
+    </td>
     <!--======= Sheep -->
     <td style="vertical-align: top; width: 33%;">
       <h4> 
@@ -51,13 +58,7 @@
       </h4>
       <img src="https://github.com/user-attachments/assets/4a40cc1c-de1c-47ce-b9ef-09403532a588" alt="Sheep" width="100%"/>
     </td>
-    <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> 
-         <br/>
-      </h4>
-      <img src="" alt="" width="100%"/>
-    </td>
+ </tr>
 
    <tr>
  <!--=======  -->
