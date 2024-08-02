@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="45" height="45" />  _Blender Collection_ &nbsp; <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  /> 
+![Cycles](https://github.com/user-attachments/assets/950b9711-ebf2-423b-9a26-5d8382cc9dd6)# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="45" height="45" />  _Blender Collection_ &nbsp; <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  /> 
 
 > ### ***Hey there, Blender Enthusiasts!*** 
 **Dive into a vibrant collection of my Blender creations, where every image tells a story of creativity and skill! In this repository, you'll find an array of meticulously rendered images showcasing my passion for**: <br/>
@@ -37,7 +37,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> Gallery
 <table>
 
- <!--========================= 01 ================================--> 
+ <!--=========================================================--> 
   <tr>
     <!--======= Man And Monster -->
    <td style="vertical-align: top; width: 33%;">
@@ -62,7 +62,29 @@
     </td>
  </tr>
 
- <!--============================ 02 ================================--> 
+ <!--===========================================================--> 
+   <tr>
+ <!--======= Fence -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> Fence </h4>
+      <h6> Unwrapping & Placing 2d Textures </h6>
+      <img src="https://github.com/user-attachments/assets/5b3211fa-b81d-40f3-a8cf-371e7712741f" alt="Fence" width="100%"/>
+    </td>
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
+    </td>
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
+    </td>
+   </tr>
+
+ <!--============================================================--> 
    <tr>
  <!--=======  -->
    <td style="vertical-align: top; width: 33%;">
@@ -84,7 +106,7 @@
     </td>
    </tr>
    
- <!--============================ 03 ================================--> 
+ <!--============================================================--> 
    <tr>
       <!--=======  -->
    <td style="vertical-align: top; width: 33%;">
@@ -105,7 +127,7 @@
     </td>
    </tr>
 
- <!--============================ 04 ================================--> 
+ <!--============================================================--> 
    <tr>
  <!--=======  -->
    <td style="vertical-align: top; width: 33%;">
@@ -127,7 +149,7 @@
     </td>
    </tr>
 
- <!--============================ 05 ================================--> 
+ <!--============================================================--> 
    <tr>
      <!--=======  -->
    <td style="vertical-align: top; width: 33%;">
