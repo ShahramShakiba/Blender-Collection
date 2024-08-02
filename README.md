@@ -42,7 +42,7 @@
     <!--======= Blender-Planet and Rocket -->  
     <td style="vertical-align: top; width: 33%;">
       <h4> 
-        Planet & Rocket <br/>
+        Planet & Rocket | Modelling shapes <br/>
       </h4>
       <img src="https://github.com/user-attachments/assets/5127e337-294e-4e19-a811-d04934448eb0" alt="Blender Planet and Rocket" width="100%"/>
     </td>
@@ -74,14 +74,14 @@
     <!--======= Crystal -->
    <td style="vertical-align: top; width: 33%;">
       <h4> 
-        Crystal <br/>
+        Crystal | Low Poly <br/>
       </h4>
       <img src="https://github.com/user-attachments/assets/48cdc42d-9acc-45e3-8a4d-7840d64a11bf" alt="Crystal" width="100%"/>
     </td>
     <!--======= Sheep -->
     <td style="vertical-align: top; width: 33%;">
       <h4> 
-        Sheep <br/>
+        Sheep | Modelling shapes <br/>
       </h4>
       <img src="https://github.com/user-attachments/assets/4a40cc1c-de1c-47ce-b9ef-09403532a588" alt="Sheep" width="100%"/>
     </td>
@@ -124,14 +124,14 @@
       <!--======= Dinning Table -->
    <td style="vertical-align: top; width: 33%;">
       <h4> 
-         Dinning Table <br/>
+         Dinning Table | Modelling shapes <br/>
       </h4>
       <img src="https://github.com/user-attachments/assets/4e796aa4-4953-416c-aaf5-6708e12bc33e" alt="Dinning Table" width="100%"/>
     </td>
         <!--======= Architectural Columns -->
    <td style="vertical-align: top; width: 33%;">
       <h4> 
-        Architectural Columns <br/>
+        Architectural Columns | Modelling shapes <br/>
       </h4>
       <img src="https://github.com/user-attachments/assets/0f9e6266-514b-4049-9a46-d951d0465d85" alt="Architectural Columns" width="100%"/>
     </td>
