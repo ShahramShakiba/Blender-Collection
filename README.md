@@ -62,6 +62,28 @@
     </td>
  </tr>
 
+ <!--===========================================GAME=================--> 
+   <tr>
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
+    </td>
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
+    </td>
+ <!--======= Terracotta Pots -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> Terracotta Pots </h4>
+      <h6> Simple Game Assets, UV Unwrapping  </h6>
+      <img src="https://github.com/user-attachments/assets/3a56e799-7dcf-4086-a153-796cb8eb35d7" alt="Terracotta Pots" width="100%"/>
+    </td>
+   </tr>
+   
  <!--===========================================================--> 
    <tr>
  <!--======= Fence -->
@@ -69,28 +91,6 @@
       <h4> Fence </h4>
       <h6> Unwrapping & Placing 2d Textures </h6>
       <img src="https://github.com/user-attachments/assets/5b3211fa-b81d-40f3-a8cf-371e7712741f" alt="Fence" width="100%"/>
-    </td>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
-   </tr>
-
- <!--============================================================--> 
-   <tr>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
     </td>
  <!--=======  -->
    <td style="vertical-align: top; width: 33%;">
