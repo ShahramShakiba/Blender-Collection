@@ -73,7 +73,7 @@
  <!--======= Coins -->
    <td style="vertical-align: top; width: 33%;">
       <h4> Gold Coins </h4>
-      <h6> Game Asset, Mirror editing </h6>
+      <h6> Game Asset, Mirror editing <br/> Use the skull icon image as a reference and cut the shape with the knife tool. </h6>
       <img src="https://github.com/user-attachments/assets/f3148328-401b-452a-8e22-d0dadec7a8d2" alt="Coins" width="100%"/>
     </td>
  <!--======= Terracotta Pots -->
