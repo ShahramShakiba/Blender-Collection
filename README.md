@@ -70,16 +70,16 @@
       <h6>  </h6>
       <img src="" alt="" width="100%"/>
     </td>
- <!--=======  -->
+ <!--======= Coins -->
    <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
+      <h4> Gold Coins </h4>
+      <h6> Game Asset, Mirror editing </h6>
+      <img src="https://github.com/user-attachments/assets/f3148328-401b-452a-8e22-d0dadec7a8d2" alt="Coins" width="100%"/>
     </td>
  <!--======= Terracotta Pots -->
    <td style="vertical-align: top; width: 33%;">
       <h4> Terracotta Pots </h4>
-      <h6> Simple Game Assets, UV Unwrapping  </h6>
+      <h6> Game Asset, UV Unwrapping  </h6>
       <img src="https://github.com/user-attachments/assets/3a56e799-7dcf-4086-a153-796cb8eb35d7" alt="Terracotta Pots" width="100%"/>
     </td>
    </tr>
