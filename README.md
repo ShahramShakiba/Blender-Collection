@@ -48,12 +48,14 @@
 https://github.com/user-attachments/assets/5d33828f-4ea1-4486-9e26-64c74871bb31
     
    </td>
- <!--=======  -->
+ <!--======= CubeQuest -->
    <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
+      <h4> CubeQuest </h4>
+      <h6> Modelling, Material, Animation, Timeline, Camera Animation </h6>
+
+https://github.com/user-attachments/assets/bc1f4236-90e6-4a9d-a3ce-1adb225ee79f
+     
+   </td>
  <!--=======  -->
    <td style="vertical-align: top; width: 33%;">
       <h4>  </h4>
