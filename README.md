@@ -37,14 +37,17 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> Gallery
 <table>
 
+
  <!--============================================================--> 
    <tr>
- <!--=======  -->
+ <!--======= Simulated Factory Animation -->
    <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
+      <h4> Simulated Factory Animation </h4>
+      <h6> Animation, Modelling, Material, Lighting </h6>
+
+https://github.com/user-attachments/assets/5d33828f-4ea1-4486-9e26-64c74871bb31
+    
+   </td>
  <!--=======  -->
    <td style="vertical-align: top; width: 33%;">
       <h4>  </h4>
