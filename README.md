@@ -43,7 +43,7 @@
  <!--======= Simulated Factory Animation -->
    <td style="vertical-align: top; width: 33%;">
       <h4> Simulated Factory Animation </h4>
-      <h6> Animation, Modelling, Material, Lighting </h6>
+      <h6> Modelling, Material, Lighting, Animation, Timeline, Graph editor </h6>
 
 https://github.com/user-attachments/assets/5d33828f-4ea1-4486-9e26-64c74871bb31
     
