@@ -72,7 +72,7 @@ https://github.com/user-attachments/assets/5d33828f-4ea1-4486-9e26-64c74871bb31
     <!--======= Rigid Body -->
    <td style="vertical-align: top; width: 33%;">
       <h4> Rigid Body </h4>
-      <h6> Modelling, Material, Animation, Physics, Camera Animation </h6>
+      <h6> Fundamentals of Physics - Rigid body </h6>
 
 https://github.com/user-attachments/assets/92d15e93-6e70-405a-bebb-ea69ba87bb09
    
