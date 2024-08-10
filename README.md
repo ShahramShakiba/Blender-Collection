@@ -133,6 +133,30 @@ https://github.com/user-attachments/assets/bc1f4236-90e6-4a9d-a3ce-1adb225ee79f
    </td>
    </tr>
 
+   <!--============================================================--> 
+   <tr>
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
+    </td>
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
+    </td>
+ <!--======= Looping Scale Animation -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> Looping Scale Animation </h4>
+      <h6> Geometry Nodes </h6>
+
+https://github.com/user-attachments/assets/dac5217a-4342-4c0e-b0f2-f98f9ec9b573
+
+   </td>
+   </tr>
+
  <!--=========================================================--> 
   <tr>
  <!--======= Old Style Well -->
