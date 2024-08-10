@@ -133,6 +133,30 @@ https://github.com/user-attachments/assets/bc1f4236-90e6-4a9d-a3ce-1adb225ee79f
    </td>
    </tr>
 
+   <!--============================================================--> 
+   <tr>
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
+    </td>
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
+    </td>
+ <!--======= Looping Scale Animation -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> Looping Scale Animation </h4>
+      <h6> Geometry Nodes </h6>
+
+https://github.com/user-attachments/assets/dac5217a-4342-4c0e-b0f2-f98f9ec9b573
+
+   </td>
+   </tr>
+
  <!--=========================================================--> 
   <tr>
  <!--======= Old Style Well -->
@@ -167,12 +191,14 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
       <h6>  </h6>
       <img src="" alt="" width="100%"/>
     </td>
- <!--=======  -->
+ <!--======= Abstract Text Environment -->
    <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
+      <h4> Abstract Text Environment </h4>
+      <h6> Modelling, Lighting, Shading, Camera Animation </h6>
+
+https://github.com/user-attachments/assets/d0ce90b3-3807-46ef-b4e1-08c159ba6598
+
+   </td>
  <!--======= Dissolve Effect -->
    <td style="vertical-align: top; width: 33%;">
       <h4> Dissolve Effect </h4>
