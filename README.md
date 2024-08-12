@@ -58,15 +58,15 @@
       <img src="" alt="" width="100%"/>
     </td>
    </tr>
-   
+
  <!--============================================================--> 
    <tr>
- <!--=======  -->
+ <!--======= Floating Island -->
    <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
+      <h4> Low Poly - Floating Island </h4>
+      <h6> Modelling, Material, Lighting </h6>
+      <img src="https://github.com/user-attachments/assets/199e5cca-e486-4775-a55b-c155c764ee79" alt="Floating Island" width="100%"/>
+   </td>
  <!--=======  -->
    <td style="vertical-align: top; width: 33%;">
       <h4>  </h4>
@@ -114,7 +114,7 @@ https://github.com/user-attachments/assets/fd63bb76-467b-42ea-a847-4b7fdf557839
 
 https://github.com/user-attachments/assets/5d33828f-4ea1-4486-9e26-64c74871bb31
     
-   </td>
+  </td>
     <!--======= Rigid Body -->
    <td style="vertical-align: top; width: 33%;">
       <h4> Rigid Body </h4>
