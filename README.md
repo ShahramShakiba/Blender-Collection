@@ -133,14 +133,20 @@ https://github.com/user-attachments/assets/bc1f4236-90e6-4a9d-a3ce-1adb225ee79f
    </td>
    </tr>
 
+
+
+
+
    <!--============================================================--> 
    <tr>
- <!--=======  -->
+ <!--======= Sci-Fi Hologram -->
    <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
+      <h4> Sci-Fi Hologram </h4>
+      <h6> Using Subdivision, Displacement and Wireframe modifier </h6>
+
+https://github.com/user-attachments/assets/ef0c6eb5-a3aa-4814-ba00-86c9932355a6
+
+   </td>
  <!--=======  -->
    <td style="vertical-align: top; width: 33%;">
       <h4>  </h4>
