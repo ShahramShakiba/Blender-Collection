@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="45" height="45" />  _Blender Collection_ &nbsp; <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  /> 
+![Gold Material](https://github.com/user-attachments/assets/13f615df-1545-4f8c-93ee-c79e5f4f8b43)# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="45" height="45" />  _Blender Collection_ &nbsp; <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  /> 
 
 > ### ***Hey there, Blender Enthusiasts!*** 
 **Dive into a vibrant collection of my Blender creations, where every image tells a story of creativity and skill! In this repository, you'll find an array of meticulously rendered images showcasing my passion for**: <br/>
@@ -319,13 +319,14 @@ https://github.com/user-attachments/assets/9a661529-9322-4a40-bfae-dbffe870005f
       <h6>  </h6>
       <img src="" alt="" width="100%"/>
     </td>
- <!--=======  -->
+ <!--======= Gold Material -->
    <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
+      <h4> Gold Material </h4>
+      <h6> Lighting, Shading, Cycles Rendering </h6>
+      <img src="https://github.com/user-attachments/assets/86dba0c8-521d-40a8-a2df-f61f9c22d22f" alt="Gold Material" width="100%"/>
     </td>
    </tr>
+
 
  <!--============================================================--> 
    <tr>
