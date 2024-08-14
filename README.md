@@ -1,4 +1,4 @@
-![Gold Material](https://github.com/user-attachments/assets/13f615df-1545-4f8c-93ee-c79e5f4f8b43)# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="45" height="45" />  _Blender Collection_ &nbsp; <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  /> 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="45" height="45" />  _Blender Collection_ &nbsp; <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  /> 
 
 > ### ***Hey there, Blender Enthusiasts!*** 
 **Dive into a vibrant collection of my Blender creations, where every image tells a story of creativity and skill! In this repository, you'll find an array of meticulously rendered images showcasing my passion for**: <br/>
