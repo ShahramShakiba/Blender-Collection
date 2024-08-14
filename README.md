@@ -36,15 +36,17 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> Gallery
 <table>
- 
+
   <!--============================================================--> 
    <tr>
- <!--=======  -->
+ <!--======= Tranquil Landscape -->
    <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
+      <h4> Tranquil Landscape </h4>
+      <h6> Displacement, Weight Paint, Sky texture, Shading material, Animation </h6>
+
+   https://github.com/user-attachments/assets/7aa08fbe-6f22-452b-8e13-6b5694dc4200
+      
+   </td>
  <!--=======  -->
    <td style="vertical-align: top; width: 33%;">
       <h4>  </h4>
