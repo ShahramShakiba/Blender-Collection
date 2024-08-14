@@ -63,18 +63,18 @@
 
  <!--============================================================--> 
    <tr>
+     <!--======= QuickSip Café -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> QuickSip Café </h4>
+      <h6> Modelling, Material, Lighting </h6>
+      <img src="https://github.com/user-attachments/assets/69e841ed-481f-402a-a37d-5f8f1d268b34" alt="QuickSip Café " width="100%"/>
+    </td>
  <!--======= Floating Island -->
    <td style="vertical-align: top; width: 33%;">
       <h4> Low Poly - Floating Island </h4>
       <h6> Modelling, Material, Lighting </h6>
       <img src="https://github.com/user-attachments/assets/199e5cca-e486-4775-a55b-c155c764ee79" alt="Floating Island" width="100%" height="100%"/>
    </td>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
  <!--=======  -->
    <td style="vertical-align: top; width: 33%;">
       <h4>  </h4>
