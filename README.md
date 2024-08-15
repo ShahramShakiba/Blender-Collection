@@ -91,12 +91,14 @@
       <h6>  </h6>
       <img src="" alt="" width="100%"/>
     </td>
- <!--=======  -->
+ <!--======= Ball Explosion -->
    <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
+      <h4> Ball Explosion </h4>
+      <h6> Geometry Nodes </h6>
+
+https://github.com/user-attachments/assets/8f19aa9e-3405-4c7f-a7f0-689947d33d12
+
+   </td>
  <!--======= Plank Tower -->
    <td style="vertical-align: top; width: 33%;">
       <h4> Plank Tower </h4>
@@ -134,10 +136,6 @@ https://github.com/user-attachments/assets/bc1f4236-90e6-4a9d-a3ce-1adb225ee79f
      
    </td>
    </tr>
-
-
-
-
 
    <!--============================================================--> 
    <tr>
@@ -347,6 +345,27 @@ https://github.com/user-attachments/assets/9a661529-9322-4a40-bfae-dbffe870005f
       <h4> Architectural Columns </h4>
       <h6> Low Poly | Modelling </h6>
       <img src="https://github.com/user-attachments/assets/0f9e6266-514b-4049-9a46-d951d0465d85" alt="Architectural Columns" width="100%" height="100%"/>
+    </td>
+   </tr>
+      <!--============================================================--> 
+   <tr>
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
+    </td>
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
+    </td>
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
     </td>
    </tr>
 </table>
