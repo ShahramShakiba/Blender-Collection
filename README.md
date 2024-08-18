@@ -365,7 +365,7 @@ https://github.com/user-attachments/assets/9a661529-9322-4a40-bfae-dbffe870005f
  <!--=======  -->
    <td style="vertical-align: top; width: 33%;">
       <h4>  </h4>
-      <h6>  </h6>
+      <h6> Modelling, UV Unwrapping, Lighting </h6>
       <img src="" alt="" width="100%"/>
     </td>
    </tr>
