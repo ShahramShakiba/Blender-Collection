@@ -35,56 +35,56 @@
 <br/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> Gallery
-<table>
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- Tranquil Landscape -->
+    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4>Tranquil Landscape</h4>
+      <h6>Displacement, Weight Paint, Sky texture, Shading material, Animation</h6>
+
+   https://github.com/user-attachments/assets/7aa08fbe-6f22-452b-8e13-6b5694dc4200
+       
+   </td>
+
+  <!-- Empty Cell -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+
+  <!-- Empty Cell -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+  </tr>
 
   <!--============================================================--> 
    <tr>
- <!--======= Tranquil Landscape -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Tranquil Landscape </h4>
-      <h6> Displacement, Weight Paint, Sky texture, Shading material, Animation </h6>
-
-   https://github.com/user-attachments/assets/7aa08fbe-6f22-452b-8e13-6b5694dc4200
-      
-   </td>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
-   </tr>
-![EEVEE]()
-
- <!--============================================================--> 
-   <tr>
      <!--======= Toon Style Tea Scene -->
-   <td style="vertical-align: top; width: 33%;">
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Toon Style Tea Scene </h4>
       <h6> Modelling, Shader Nodes, Lighting, Geometry Nodes  </h6>
       <img src="https://github.com/user-attachments/assets/00215417-547d-4335-8140-ffdb0fe86810" alt="Toon Style Tea Scene" width="100%"/>
     </td>
      <!--======= QuickSip Café -->
-   <td style="vertical-align: top; width: 33%;">
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> QuickSip Café </h4>
       <h6> Modelling, Material, Lighting, </h6>
       <img src="https://github.com/user-attachments/assets/69e841ed-481f-402a-a37d-5f8f1d268b34" alt="QuickSip Café " width="100%"/>
     </td>
  <!--======= Floating Island -->
-   <td style="vertical-align: top; width: 33%;">
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Low Poly - Floating Island </h4>
       <h6> Modelling, Material, Lighting </h6>
-      <img src="https://github.com/user-attachments/assets/199e5cca-e486-4775-a55b-c155c764ee79" alt="Floating Island" width="100%" height="100%"/>
+      <img src="https://github.com/user-attachments/assets/199e5cca-e486-4775-a55b-c155c764ee79" alt="Floating Island" width="100%"/>
    </td>
    </tr>
 
- <!--============================================================--> 
+  <!--============================================================--> 
    <tr>
  <!--=======  -->
    <td style="vertical-align: top; width: 33%;">
@@ -109,7 +109,17 @@ https://github.com/user-attachments/assets/fd63bb76-467b-42ea-a847-4b7fdf557839
      
    </td>
    </tr>
-   
+</table>
+
+
+
+
+
+
+
+
+
+<table>
  <!--============================================================--> 
    <tr>
  <!--======= Simulated Factory Animation -->
