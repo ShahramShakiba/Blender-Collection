@@ -34,16 +34,17 @@
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> Gallery
+<!--==========================================================================--> 
+<!--============================= 3D Modelling ===============================--> 
+<!--==========================================================================--> 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> Gallery of 3D Modelling
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <!-- Tranquil Landscape -->
+    <!--  -->
     <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4>Tranquil Landscape</h4>
-      <h6>Displacement, Weight Paint, Sky texture, Shading material, Animation</h6>
-
-   https://github.com/user-attachments/assets/7aa08fbe-6f22-452b-8e13-6b5694dc4200
+      <h4></h4>
+      <h6></h6>
        
    </td>
 
@@ -84,96 +85,6 @@
    </td>
    </tr>
 
-  <!--============================================================--> 
-   <tr>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
- <!--======= Ball Explosion -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Ball Explosion </h4>
-      <h6> Geometry Nodes </h6>
-
-https://github.com/user-attachments/assets/8f19aa9e-3405-4c7f-a7f0-689947d33d12
-
-   </td>
- <!--======= Plank Tower -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Plank Tower </h4>
-      <h6> Modelling, Material, Lighting, Animation, Physics (Bake rigid body), Camera Animation </h6>
-
-https://github.com/user-attachments/assets/fd63bb76-467b-42ea-a847-4b7fdf557839
-     
-   </td>
-   </tr>
-</table>
-
-
-
-
-
-
-
-
-
-<table>
- <!--============================================================--> 
-   <tr>
- <!--======= Simulated Factory Animation -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Simulated Factory Animation </h4>
-      <h6> Modelling, Material, Lighting, Animation, Timeline, Graph editor </h6>
-
-https://github.com/user-attachments/assets/5d33828f-4ea1-4486-9e26-64c74871bb31
-    
-  </td>
-    <!--======= Rigid Body -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Rigid Body </h4>
-      <h6> Fundamentals of Physics - Rigid body </h6>
-
-https://github.com/user-attachments/assets/92d15e93-6e70-405a-bebb-ea69ba87bb09
-   
-   </td>
- <!--======= CubeQuest -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> CubeQuest </h4>
-      <h6> Modelling, Material, Animation, Timeline, Camera Animation </h6>
-
-https://github.com/user-attachments/assets/bc1f4236-90e6-4a9d-a3ce-1adb225ee79f
-     
-   </td>
-   </tr>
-
-   <!--============================================================--> 
-   <tr>
- <!--======= Sci-Fi Hologram -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Sci-Fi Hologram </h4>
-      <h6> Using Subdivision, Displacement and Wireframe modifier </h6>
-
-https://github.com/user-attachments/assets/ef0c6eb5-a3aa-4814-ba00-86c9932355a6
-
-   </td>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
- <!--======= Looping Scale Animation -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Looping Scale Animation </h4>
-      <h6> Geometry Nodes </h6>
-
-https://github.com/user-attachments/assets/dac5217a-4342-4c0e-b0f2-f98f9ec9b573
-
-   </td>
-   </tr>
-
  <!--=========================================================--> 
   <tr>
  <!--======= Old Style Well -->
@@ -199,6 +110,203 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
       <img src="https://github.com/user-attachments/assets/5127e337-294e-4e19-a811-d04934448eb0" alt="Blender Planet and Rocket" width="100%" height="100%"/>
     </td>
  </tr>
+ 
+  <!--============================================================--> 
+   <tr>
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
+    </td>
+    
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> </h4>
+      <h6> </h6>
+
+
+
+   </td>
+   
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4></h4>
+      <h6> </h6>
+     
+   </td>
+   </tr>
+</table>
+
+<br/> <br/>
+
+<!--==========================================================================--> 
+<!--============================= 3D Animations ===============================--> 
+<!--==========================================================================--> 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> Gallery of 3D Animations
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+   <!-- Tranquil Landscape -->
+  <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4>Tranquil Landscape</h4>
+      <h6>Displacement, Weight Paint, Sky texture, Shading material, Animation</h6>
+
+   https://github.com/user-attachments/assets/7aa08fbe-6f22-452b-8e13-6b5694dc4200
+       
+   </td>
+   
+ <!--======= Simulated Factory Animation -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> Simulated Factory Animation </h4>
+      <h6> Modelling, Material, Lighting, Animation, Timeline, Graph editor </h6>
+
+https://github.com/user-attachments/assets/5d33828f-4ea1-4486-9e26-64c74871bb31
+    
+  </td>
+
+ <!--======= CubeQuest -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> CubeQuest </h4>
+      <h6> Modelling, Material, Animation, Timeline, Camera Animation </h6>
+
+https://github.com/user-attachments/assets/bc1f4236-90e6-4a9d-a3ce-1adb225ee79f
+     
+   </td>
+ </tr>
+
+  <!--=================================================================================================--> 
+
+ <tr>
+  <!--======= Plank Tower -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> Plank Tower </h4>
+      <h6> Modelling, Material, Lighting, Animation, Physics (Bake rigid body), Camera Animation </h6>
+
+https://github.com/user-attachments/assets/fd63bb76-467b-42ea-a847-4b7fdf557839
+     
+   </td>
+
+<!--======= Looping Scale Animation -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> Looping Scale Animation </h4>
+      <h6> Geometry Nodes </h6>
+
+https://github.com/user-attachments/assets/dac5217a-4342-4c0e-b0f2-f98f9ec9b573
+
+   </td>
+
+ <!--======= Sci-Fi Hologram -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> Sci-Fi Hologram </h4>
+      <h6> Using Subdivision, Displacement and Wireframe modifier </h6>
+
+https://github.com/user-attachments/assets/ef0c6eb5-a3aa-4814-ba00-86c9932355a6
+
+   </td>
+  </tr>
+
+ <!--================================================================================================--> 
+
+<tr>
+ <!--======= Ball Explosion -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> Ball Explosion </h4>
+      <h6> Geometry Nodes </h6>
+
+https://github.com/user-attachments/assets/8f19aa9e-3405-4c7f-a7f0-689947d33d12
+
+   </td>
+
+<!--======= Rigid Body -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> Rigid Body </h4>
+      <h6> Fundamentals of Physics - Rigid body </h6>
+
+https://github.com/user-attachments/assets/92d15e93-6e70-405a-bebb-ea69ba87bb09
+   
+   </td>
+
+ <!-- -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4>  </h4>
+      <h6>  </h6>
+
+   </td>
+  </tr>
+
+ <!--================================================================================================--> 
+
+<tr>
+<!-- Empty Cell -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+
+ <!-- Empty Cell -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+
+ <!-- Classic Bouncing Ball -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> Classic Bouncing Ball </h4>
+      <h6> Object Transformation </h6>
+
+https://github.com/user-attachments/assets/27a8a19a-3cee-4a49-a450-d5dcc9b7519a
+
+   </td>
+  </tr>
+  
+  <!--=================================================================================================--> 
+
+   <tr>
+    <!--  -->
+    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+
+  <!-- Empty Cell -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+
+  <!--  -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> </h4>
+      <h6> </h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+
+   </td>
+  </tr>
+</table>
+
+
+
+
+<br/> <br/>
+
+
+<table>
+   <tr>
+
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
+    </td>
+
+   </tr>
+
 
    <!--============================================================--> 
    <tr>
