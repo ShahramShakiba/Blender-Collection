@@ -88,7 +88,7 @@
  <!--=========================================================--> 
   <tr>
  <!--======= Old Style Well -->
-   <td style="vertical-align: top; width: 33%;">
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Old Style Well </h4>
       <h6> Game Asset, Modelling, Materials, Animation Rendering </h6>
 
@@ -96,7 +96,7 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
       
    </td>
     <!--======= Man And Monster -->
-   <td style="vertical-align: top; width: 33%;">
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Man And Monster </h4>
       <h6> Modelling, Materials, Animation Rendering </h6>
     
@@ -104,7 +104,7 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
  
    </td>
     <!--======= Blender-Planet and Rocket -->  
-    <td style="vertical-align: top; width: 33%;">
+    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Planet & Rocket </h4>
       <h6> Modelling, Materials </h6>
       <img src="https://github.com/user-attachments/assets/5127e337-294e-4e19-a811-d04934448eb0" alt="Blender Planet and Rocket" width="100%" height="100%"/>
@@ -114,35 +114,104 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
   <!--============================================================--> 
    <tr>
  <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4>  </h4>
       <h6>  </h6>
       <img src="" alt="" width="100%"/>
     </td>
     
  <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> </h4>
       <h6> </h6>
-
-
 
    </td>
    
  <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4></h4>
       <h6> </h6>
      
    </td>
+  </tr>
+
+ <!--============================================================--> 
+  <tr>
+    <!--======= Fence -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> Fence </h4>
+      <h6> Unwrapping & Placing 2d Textures </h6>
+      <img src="https://github.com/user-attachments/assets/5b3211fa-b81d-40f3-a8cf-371e7712741f" alt="Fence" width="100%" height="100%"/>
+    </td>
+    
+ <!--======= Coins -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> Gold Coins </h4>
+      <h6> Game Asset, Mirror editing <br/> Use the skull icon image as a reference and cut the shape with the knife tool. </h6>
+      <img src="https://github.com/user-attachments/assets/f3148328-401b-452a-8e22-d0dadec7a8d2" alt="Coins" width="100%" height="100%"/>
+    </td>
+ <!--======= Terracotta Pots -->
+   <td style="vertical-align: top; width: 33%;">
+      <h4> Terracotta Pots </h4>
+      <h6> Game Asset, UV Unwrapping  </h6>
+      <img src="https://github.com/user-attachments/assets/3a56e799-7dcf-4086-a153-796cb8eb35d7" alt="Terracotta Pots" width="100%" height="100%"/>
+    </td>
+  </tr>
+  
+  <!--===============================================================--> 
+   <tr>
+      <!--======= Landscape  -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> Landscape </h4>
+      <h6> Low Poly | Modelling, Materials, Lighting, Environment Map </h6>
+      <img src="https://github.com/user-attachments/assets/e18728f6-e457-4574-9e27-6502e73229a4" alt="Landscape" width="100%" height="100%"/>
+    </td>
+    <!--======= Crystal -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> Crystal  </h4>
+      <h6> Low Poly | Modelling, Materials </h6>
+      <img src="https://github.com/user-attachments/assets/48cdc42d-9acc-45e3-8a4d-7840d64a11bf" alt="Crystal" width="100%" height="100%"/>
+    </td>
+    <!--======= Sheep -->
+    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> Sheep </h4>
+      <h6> Low Poly | Modelling, Materials </h6>
+      <img src="https://github.com/user-attachments/assets/4a40cc1c-de1c-47ce-b9ef-09403532a588" alt="Sheep" width="100%" height="100%"/>
+    </td>
+   </tr>
+
+  <!--==================================================================--> 
+   <tr>
+     <!--======= Gold Material -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> Gold Material </h4>
+      <h6> Lighting, Shading, Cycles Rendering </h6>
+      <img src="https://github.com/user-attachments/assets/86dba0c8-521d-40a8-a2df-f61f9c22d22f" alt="Gold Material" width="100%"/>
+    </td>
+      <!--======= Dinning Table -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> Dinning Table </h4>
+      <h6> Low Poly | Modelling </h6>
+      <img src="https://github.com/user-attachments/assets/4e796aa4-4953-416c-aaf5-6708e12bc33e" alt="Dinning Table" width="100%" height="100%"/>
+    </td>
+        <!--======= Architectural Columns -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> Architectural Columns </h4>
+      <h6> Low Poly | Modelling </h6>
+      <img src="https://github.com/user-attachments/assets/0f9e6266-514b-4049-9a46-d951d0465d85" alt="Architectural Columns" width="100%" height="100%"/>
+    </td>
    </tr>
 </table>
 
+
+
 <br/> <br/>
 
-<!--==========================================================================--> 
+
+
+<!--================================================================================================--> 
 <!--============================= 3D Animations ===============================--> 
-<!--==========================================================================--> 
+<!--================================================================================================--> 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> Gallery of 3D Animations
 
 <table style="width: 100%; table-layout: fixed;">
@@ -235,8 +304,33 @@ https://github.com/user-attachments/assets/92d15e93-6e70-405a-bebb-ea69ba87bb09
    </td>
   </tr>
 
- <!--================================================================================================--> 
+  <!--============================================================--> 
+   <tr>
+ <!--======= Abstract Text Environment -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> Abstract Text Environment </h4>
+      <h6> Modelling, Lighting, Shading, Camera Animation </h6>
+    
+https://github.com/user-attachments/assets/d0ce90b3-3807-46ef-b4e1-08c159ba6598
+   
+   </td>
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
+    </td>
+ <!--======= Dissolve Effect -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> Dissolve Effect </h4>
+      <h6> Basic Shader Nodes, Particle System </h6>
 
+https://github.com/user-attachments/assets/9a661529-9322-4a40-bfae-dbffe870005f
+    
+   </td>
+   </tr>
+   
+ <!--================================================================================================--> 
 <tr>
 <!-- Empty Cell -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
@@ -288,213 +382,6 @@ https://github.com/user-attachments/assets/27a8a19a-3cee-4a49-a450-d5dcc9b7519a
    </td>
   </tr>
 </table>
-
-
-
-
-<br/> <br/>
-
-
-<table>
-   <tr>
-
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
-
-   </tr>
-
-
-   <!--============================================================--> 
-   <tr>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
-   </tr>
-
-  <!--============================================================--> 
-   <tr>
- <!--======= Abstract Text Environment -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Abstract Text Environment </h4>
-      <h6> Modelling, Lighting, Shading, Camera Animation </h6>
-    
-https://github.com/user-attachments/assets/d0ce90b3-3807-46ef-b4e1-08c159ba6598
-   
-   </td>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
- <!--======= Dissolve Effect -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Dissolve Effect </h4>
-      <h6> Basic Shader Nodes, Particle System </h6>
-
-https://github.com/user-attachments/assets/9a661529-9322-4a40-bfae-dbffe870005f
-    
-   </td>
-   </tr>
-
- <!--===========================================GAME=================--> 
-   <tr>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
- <!--======= Coins -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Gold Coins </h4>
-      <h6> Game Asset, Mirror editing <br/> Use the skull icon image as a reference and cut the shape with the knife tool. </h6>
-      <img src="https://github.com/user-attachments/assets/f3148328-401b-452a-8e22-d0dadec7a8d2" alt="Coins" width="100%" height="100%"/>
-    </td>
- <!--======= Terracotta Pots -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Terracotta Pots </h4>
-      <h6> Game Asset, UV Unwrapping  </h6>
-      <img src="https://github.com/user-attachments/assets/3a56e799-7dcf-4086-a153-796cb8eb35d7" alt="Terracotta Pots" width="100%" height="100%"/>
-    </td>
-   </tr>
-   
- <!--===========================================================--> 
-   <tr>
- <!--======= Fence -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Fence </h4>
-      <h6> Unwrapping & Placing 2d Textures </h6>
-      <img src="https://github.com/user-attachments/assets/5b3211fa-b81d-40f3-a8cf-371e7712741f" alt="Fence" width="100%" height="100%"/>
-    </td>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
-   </tr>
-
- <!--============================================================--> 
-   <tr>
-      <!--======= Landscape  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Landscape </h4>
-      <h6> Low Poly | Modelling, Materials, Lighting, Environment Map </h6>
-      <img src="https://github.com/user-attachments/assets/e18728f6-e457-4574-9e27-6502e73229a4" alt="Landscape" width="100%" height="100%"/>
-    </td>
-    <!--======= Crystal -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Crystal  </h4>
-      <h6> Low Poly | Modelling, Materials </h6>
-      <img src="https://github.com/user-attachments/assets/48cdc42d-9acc-45e3-8a4d-7840d64a11bf" alt="Crystal" width="100%" height="100%"/>
-    </td>
-    <!--======= Sheep -->
-    <td style="vertical-align: top; width: 33%;">
-      <h4> Sheep </h4>
-      <h6> Low Poly | Modelling, Materials </h6>
-      <img src="https://github.com/user-attachments/assets/4a40cc1c-de1c-47ce-b9ef-09403532a588" alt="Sheep" width="100%" height="100%"/>
-    </td>
-   </tr>
-
- <!--============================================================--> 
-   <tr>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
- <!--======= Gold Material -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Gold Material </h4>
-      <h6> Lighting, Shading, Cycles Rendering </h6>
-      <img src="https://github.com/user-attachments/assets/86dba0c8-521d-40a8-a2df-f61f9c22d22f" alt="Gold Material" width="100%"/>
-    </td>
-   </tr>
-
-
- <!--============================================================--> 
-   <tr>
-     <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
-      <!--======= Dinning Table -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Dinning Table </h4>
-      <h6> Low Poly | Modelling </h6>
-      <img src="https://github.com/user-attachments/assets/4e796aa4-4953-416c-aaf5-6708e12bc33e" alt="Dinning Table" width="100%" height="100%"/>
-    </td>
-        <!--======= Architectural Columns -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4> Architectural Columns </h4>
-      <h6> Low Poly | Modelling </h6>
-      <img src="https://github.com/user-attachments/assets/0f9e6266-514b-4049-9a46-d951d0465d85" alt="Architectural Columns" width="100%" height="100%"/>
-    </td>
-   </tr>
-      <!--============================================================--> 
-   <tr>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33%;">
-      <h4>  </h4>
-      <h6> Modelling, Shader Nodes, UV Unwrapping, Lighting </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
-   </tr>
-</table>
-
-
-
-
-
-
-
 
 
 
