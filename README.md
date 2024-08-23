@@ -55,6 +55,30 @@
       <img src="" alt="" style="width: 100%; height: auto;"/>
    </td>
 
+  <!-- Motel Scene -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> Motel Scene </h4>
+      <h6> Modeling, Shader Nodes, Lighting, Particles, Rendering </h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+  </tr>
+
+  <!--============================================================--> 
+   <tr>
+    <!--  -->
+    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+       
+   </td>
+
+  <!-- Empty Cell -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+
   <!-- Empty Cell -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4></h4>
@@ -215,6 +239,30 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> Gallery of 3D Animations
 
 <table style="width: 100%; table-layout: fixed;">
+   <tr>
+    <!--  -->
+    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+       
+   </td>
+
+  <!-- Empty Cell -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+
+  <!-- Empty Cell -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+  </tr>
+  
+  <!--==================================================================--> 
   <tr>
    <!-- Tranquil Landscape -->
   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
