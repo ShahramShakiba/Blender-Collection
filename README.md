@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="45" height="45" />  _Blender Collection_ &nbsp; <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  /> 
 
-> ### ***Hey there, Blender Enthusiasts!*** 
+### ***Greetings, Fellow 3D Artists!*** 
 **Dive into a vibrant collection of my Blender creations, where every image tells a story of creativity and skill! In this repository, you'll find an array of meticulously rendered images showcasing my passion for**: <br/>
 
 - 🛠️ _3D Modeling_
@@ -12,7 +12,7 @@
 - Explore stunning visuals 🌟
 - Simply appreciate the art of Blender 🎨 <br/>
 
-***...you're in the right place!*** 🎉
+***... you're in the right place!*** 🎉
   
 <br/> 
 
