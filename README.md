@@ -59,7 +59,9 @@
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Motel Scene </h4>
       <h6> Modeling, Shader Nodes, Lighting, Particles, Rendering </h6>
-      <img src="" alt="" style="width: 100%; height: auto;"/>
+
+https://github.com/user-attachments/assets/ac02a0a8-f85a-4f42-8462-5888a8dc168a
+
    </td>
   </tr>
 
