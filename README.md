@@ -41,10 +41,10 @@
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <!--  -->
+    <!-- Star Destroyer Bridge -->
     <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4></h4>
-      <h6></h6>
+      <h4> Star Destroyer Bridge </h4>
+      <h6> Modeling, </h6>
        
    </td>
 
