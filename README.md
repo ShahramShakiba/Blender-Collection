@@ -382,11 +382,13 @@ https://github.com/user-attachments/assets/9a661529-9322-4a40-bfae-dbffe870005f
    
  <!--================================================================================================--> 
 <tr>
-<!-- Empty Cell -->
+<!-- Swing Animation -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4></h4>
-      <h6></h6>
-      <img src="" alt="" style="width: 100%; height: auto;"/>
+      <h4> Swing Animation </h4>
+      <h6> • Rigging <br/> All objects were prepped in advance; I just applied the animation. </h6>
+
+https://github.com/user-attachments/assets/2d0154bf-f1f3-43cf-ab94-251cb165a839
+
    </td>
 
  <!-- Basic Animation -->
