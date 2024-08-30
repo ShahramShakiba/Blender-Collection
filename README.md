@@ -44,7 +44,7 @@
     <!-- Star Destroyer Bridge -->
     <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Star Destroyer Bridge </h4>
-      <h6> Modeling, Lighting, UV Unwrapping, Shader Nodes </h6>
+      <h6> Modeling, Lighting, UV Unwrapping, Shader Nodes, Physics, Sculpting </h6>
        
    </td>
 
