@@ -13,7 +13,7 @@
 - Simply appreciate the art of Blender 🎨 <br/>
 
 ***... you're in the right place!*** 🎉
-  
+   
 <br/> 
 
 > ## 🏢 Who Can Benefit from These Creations?
