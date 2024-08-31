@@ -8,7 +8,7 @@
 - 🖌️ _Digital Artistry_
 
  💡**Whether you're here to**:
-- Find inspiration 🌠
+- Find inspiration 🌠 
 - Explore stunning visuals 🌟
 - Simply appreciate the art of Blender 🎨 <br/>
 
