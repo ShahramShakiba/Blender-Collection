@@ -40,7 +40,32 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> Gallery of 3D Modelling
 
 <table style="width: 100%; table-layout: fixed;">
-  <tr>
+    <tr>
+    <!--  -->
+    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+       
+   </td>
+
+  <!-- Empty Cell -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+
+  <!-- Empty Cell -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+  </tr>
+
+  <!--============================================================--> 
+
+   <tr>
     <!-- Star Destroyer Bridge -->
     <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Star Destroyer Bridge </h4>
@@ -74,10 +99,10 @@ https://github.com/user-attachments/assets/ac02a0a8-f85a-4f42-8462-5888a8dc168a
        
    </td>
 
-  <!-- Empty Cell -->
+  <!--  Tranquil Island Sanctuary -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4></h4>
-      <h6></h6>
+      <h4>  Tranquil Island Sanctuary </h4>
+      <h6> Modeling </h6>
       <img src="" alt="" style="width: 100%; height: auto;"/>
    </td>
 
