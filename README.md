@@ -102,7 +102,7 @@ https://github.com/user-attachments/assets/ac02a0a8-f85a-4f42-8462-5888a8dc168a
   <!--  Tranquil Island Sanctuary -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4>  Tranquil Island Sanctuary </h4>
-      <h6> Modeling </h6>
+      <h6> Modeling, Shader Nodes </h6>
       <img src="" alt="" style="width: 100%; height: auto;"/>
    </td>
 
