@@ -8,12 +8,12 @@
 - 🖌️ _Digital Artistry_
 
  💡**Whether you're here to**:
-- Find inspiration 🌠
+- Find inspiration 🌠 
 - Explore stunning visuals 🌟
 - Simply appreciate the art of Blender 🎨 <br/>
 
 ***... you're in the right place!*** 🎉
-  
+   
 <br/> 
 
 > ## 🏢 Who Can Benefit from These Creations?
@@ -40,11 +40,36 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> Gallery of 3D Modelling
 
 <table style="width: 100%; table-layout: fixed;">
-  <tr>
+    <tr>
     <!--  -->
     <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4></h4>
       <h6></h6>
+       
+   </td>
+
+  <!-- Empty Cell -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+
+  <!-- Empty Cell -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+  </tr>
+
+  <!--============================================================--> 
+
+   <tr>
+    <!-- Star Destroyer Bridge -->
+    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> Star Destroyer Bridge </h4>
+      <h6> Modeling, Lighting, UV Unwrapping, Shader Nodes, Physics, Sculpting </h6>
        
    </td>
 
@@ -74,10 +99,10 @@ https://github.com/user-attachments/assets/ac02a0a8-f85a-4f42-8462-5888a8dc168a
        
    </td>
 
-  <!-- Empty Cell -->
+  <!--  Tranquil Island Sanctuary -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4></h4>
-      <h6></h6>
+      <h4>  Tranquil Island Sanctuary </h4>
+      <h6> Modeling, Shader Nodes </h6>
       <img src="" alt="" style="width: 100%; height: auto;"/>
    </td>
 
@@ -382,18 +407,22 @@ https://github.com/user-attachments/assets/9a661529-9322-4a40-bfae-dbffe870005f
    
  <!--================================================================================================--> 
 <tr>
-<!-- Empty Cell -->
+<!-- Swing Animation -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4></h4>
-      <h6></h6>
-      <img src="" alt="" style="width: 100%; height: auto;"/>
+      <h4> Swing Animation </h4>
+      <h6> • Rigging <br/> All objects were prepped in advance; I just applied the animation. </h6>
+
+https://github.com/user-attachments/assets/2d0154bf-f1f3-43cf-ab94-251cb165a839
+
    </td>
 
- <!-- Empty Cell -->
+ <!-- Basic Animation -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4></h4>
-      <h6></h6>
-      <img src="" alt="" style="width: 100%; height: auto;"/>
+      <h4> Basic Animation </h4>
+      <h6> • Transformation • Rotation • Physics <br/> All objects were prepped in advance; I just applied the animation.</h6>
+
+https://github.com/user-attachments/assets/bddf6199-d95c-4091-9c0e-8585458db299
+     
    </td>
 
  <!-- Classic Bouncing Ball -->
@@ -401,7 +430,7 @@ https://github.com/user-attachments/assets/9a661529-9322-4a40-bfae-dbffe870005f
       <h4> Classic Bouncing Ball </h4>
       <h6> Object Transformation </h6>
 
-https://github.com/user-attachments/assets/27a8a19a-3cee-4a49-a450-d5dcc9b7519a
+https://github.com/user-attachments/assets/1c9d51d4-7f99-4a0f-9c33-d370b46c9343
 
    </td>
   </tr>
@@ -432,6 +461,9 @@ https://github.com/user-attachments/assets/27a8a19a-3cee-4a49-a450-d5dcc9b7519a
    </td>
   </tr>
 </table>
+
+
+
 
 
 
