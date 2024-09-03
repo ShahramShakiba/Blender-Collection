@@ -66,26 +66,26 @@
   <!--============================================================--> 
 
    <tr>
-    <!-- Star Destroyer Bridge -->
-    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+    <!--  Tranquil Island Sanctuary -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4>  Tranquil Island Sanctuary </h4>
+      <h6> Modeling, Shader Nodes, Camera animation, Rendering </h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+    
+   <!-- Star Destroyer Bridge -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Star Destroyer Bridge </h4>
-      <h6> Modeling, Lighting, UV unwrapping, Shader nodes, Physic simulation, Sculpting, Compositor nodes </h6>
+      <h6> Modeling, Lighting, UV unwrapping, Shader nodes, Physic simulation, Sculpting, Compositor nodes, Camera animation, Rendering </h6>
 
 https://github.com/user-attachments/assets/2acdea0e-1d90-46ab-ae99-d9ad2c52faff
        
    </td>
 
-  <!-- Empty Cell -->
-   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4></h4>
-      <h6></h6>
-      <img src="" alt="" style="width: 100%; height: auto;"/>
-   </td>
-
   <!-- Motel Scene -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Motel Scene </h4>
-      <h6> Modeling, Shader Nodes, Lighting, Particles, Rendering </h6>
+      <h6> Modeling, Shader Nodes, Lighting, Particles, Camera animation, Rendering </h6>
 
 https://github.com/user-attachments/assets/ac02a0a8-f85a-4f42-8462-5888a8dc168a
 
@@ -94,46 +94,22 @@ https://github.com/user-attachments/assets/ac02a0a8-f85a-4f42-8462-5888a8dc168a
 
   <!--============================================================--> 
    <tr>
-    <!--  -->
-    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4></h4>
-      <h6></h6>
-       
-   </td>
-
-  <!--  Tranquil Island Sanctuary -->
-   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4>  Tranquil Island Sanctuary </h4>
-      <h6> Modeling, Shader Nodes </h6>
-      <img src="" alt="" style="width: 100%; height: auto;"/>
-   </td>
-
-  <!-- Empty Cell -->
-   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4></h4>
-      <h6></h6>
-      <img src="" alt="" style="width: 100%; height: auto;"/>
-   </td>
-  </tr>
-
-  <!--============================================================--> 
-   <tr>
      <!--======= Toon Style Tea Scene -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Toon Style Tea Scene </h4>
-      <h6> Modelling, Shader Nodes, Lighting, Geometry Nodes  </h6>
+      <h6> Modeling, Shader Nodes, Lighting, Geometry Nodes, Rendering  </h6>
       <img src="https://github.com/user-attachments/assets/00215417-547d-4335-8140-ffdb0fe86810" alt="Toon Style Tea Scene" width="100%"/>
     </td>
      <!--======= QuickSip Café -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> QuickSip Café </h4>
-      <h6> Modelling, Material, Lighting, </h6>
+      <h6> Modeling, Shader Nodes, Lighting, Rendering </h6>
       <img src="https://github.com/user-attachments/assets/69e841ed-481f-402a-a37d-5f8f1d268b34" alt="QuickSip Café " width="100%"/>
     </td>
  <!--======= Floating Island -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Low Poly - Floating Island </h4>
-      <h6> Modelling, Material, Lighting </h6>
+      <h6> Modeling, Shader Nodes, Lighting, Rendering </h6>
       <img src="https://github.com/user-attachments/assets/199e5cca-e486-4775-a55b-c155c764ee79" alt="Floating Island" width="100%"/>
    </td>
    </tr>
@@ -143,7 +119,7 @@ https://github.com/user-attachments/assets/ac02a0a8-f85a-4f42-8462-5888a8dc168a
  <!--======= Old Style Well -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Old Style Well </h4>
-      <h6> Game Asset, Modelling, Materials, Animation Rendering </h6>
+      <h6> Game Asset, Modeling, Shader Nodes, Camera animation, Rendering </h6>
 
 https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
       
@@ -151,7 +127,7 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
     <!--======= Man And Monster -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Man And Monster </h4>
-      <h6> Modelling, Materials, Animation Rendering </h6>
+      <h6> Modeling, Shader Nodes, Camer animation, Rendering </h6>
     
  https://github.com/user-attachments/assets/4f44c739-7f1d-4fbd-9f28-6d7bd330e4ba
  
@@ -159,7 +135,7 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
     <!--======= Blender-Planet and Rocket -->  
     <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Planet & Rocket </h4>
-      <h6> Modelling, Materials </h6>
+      <h6> Modeling, Shader Nodes, Rendering </h6>
       <img src="https://github.com/user-attachments/assets/5127e337-294e-4e19-a811-d04934448eb0" alt="Blender Planet and Rocket" width="100%" height="100%"/>
     </td>
  </tr>
@@ -216,19 +192,19 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
       <!--======= Landscape  -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Landscape </h4>
-      <h6> Low Poly | Modelling, Materials, Lighting, Environment Map </h6>
+      <h6> Low Poly | Modeling, Shader Nodes, Lighting, Environment Map, Rendering </h6>
       <img src="https://github.com/user-attachments/assets/e18728f6-e457-4574-9e27-6502e73229a4" alt="Landscape" width="100%" height="100%"/>
     </td>
     <!--======= Crystal -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Crystal  </h4>
-      <h6> Low Poly | Modelling, Materials </h6>
+      <h6> Low Poly | Modeling, Shader Nodes, Rendering </h6>
       <img src="https://github.com/user-attachments/assets/48cdc42d-9acc-45e3-8a4d-7840d64a11bf" alt="Crystal" width="100%" height="100%"/>
     </td>
     <!--======= Sheep -->
     <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Sheep </h4>
-      <h6> Low Poly | Modelling, Materials </h6>
+      <h6> Low Poly | Modeling, Shader Nodes, Rendering </h6>
       <img src="https://github.com/user-attachments/assets/4a40cc1c-de1c-47ce-b9ef-09403532a588" alt="Sheep" width="100%" height="100%"/>
     </td>
    </tr>
@@ -238,19 +214,19 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
      <!--======= Gold Material -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Gold Material </h4>
-      <h6> Lighting, Shading, Cycles Rendering </h6>
+      <h6> Modeling, Lighting, Shader Nodes, Cycles Rendering </h6>
       <img src="https://github.com/user-attachments/assets/86dba0c8-521d-40a8-a2df-f61f9c22d22f" alt="Gold Material" width="100%"/>
     </td>
       <!--======= Dinning Table -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Dinning Table </h4>
-      <h6> Low Poly | Modelling </h6>
+      <h6> Low Poly | Modeling, Rendering </h6>
       <img src="https://github.com/user-attachments/assets/4e796aa4-4953-416c-aaf5-6708e12bc33e" alt="Dinning Table" width="100%" height="100%"/>
     </td>
         <!--======= Architectural Columns -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Architectural Columns </h4>
-      <h6> Low Poly | Modelling </h6>
+      <h6> Low Poly | Modeling, Rendering </h6>
       <img src="https://github.com/user-attachments/assets/0f9e6266-514b-4049-9a46-d951d0465d85" alt="Architectural Columns" width="100%" height="100%"/>
     </td>
    </tr>
