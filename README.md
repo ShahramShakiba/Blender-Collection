@@ -69,7 +69,9 @@
     <!-- Star Destroyer Bridge -->
     <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Star Destroyer Bridge </h4>
-      <h6> Modeling, Lighting, UV Unwrapping, Shader Nodes, Physics, Sculpting </h6>
+      <h6> Modeling, Lighting, UV unwrapping, Shader nodes, Physic simulation, Sculpting, Compositor nodes </h6>
+
+https://github.com/user-attachments/assets/2acdea0e-1d90-46ab-ae99-d9ad2c52faff
        
    </td>
 
