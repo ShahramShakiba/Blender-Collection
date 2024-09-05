@@ -69,8 +69,10 @@
     <!--  Tranquil Island Sanctuary -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4>  Tranquil Island Sanctuary </h4>
-      <h6> Modeling, Shader Nodes, Camera animation, Rendering </h6>
-      <img src="" alt="" style="width: 100%; height: auto;"/>
+      <h6> Modeling, Shader Nodes, Sky texture, Camera animation, Rendering </h6>
+
+https://github.com/user-attachments/assets/7116e337-bc04-4d3e-af87-40cb86f433cd
+      
    </td>
     
    <!-- Star Destroyer Bridge -->
