@@ -58,8 +58,8 @@
   <!-- Interior Design -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Interior Design </h4>
-      <h6> Modeling, Lighting, Texturing, Rendering </h6>
-      <img src="" alt="" style="width: 100%; height: auto;"/>
+      <h6> Modeling, Lighting, Texturing, Shader nodes, Rendering </h6>
+   <img src="https://github.com/user-attachments/assets/6f142058-c7d1-4f4d-b171-0b608be41250" alt="Interior Design" style="width: 100%; height: auto;"/>
    </td>
   </tr>
 
