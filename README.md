@@ -158,11 +158,11 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
 
    </td>
    
- <!--======= Create More -->
+ <!--======= 3D Artist -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4>Create More</h4>
-      <h6> Create 3D Letter </h6>
-     
+      <h4> 3D Artist </h4>
+      <h6> Create 3D Letter <br/> Modeling, Shader nodes, Lights, Render </h6>
+    <img src="" alt="" style="width: 100%; height: auto;"/>
    </td>
   </tr>
 
