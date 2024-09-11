@@ -161,7 +161,7 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
  <!--======= 3D Artist -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> 3D Artist </h4>
-      <h6> Create 3D Letter <br/> Modeling, Shader nodes, Lights, Render </h6>
+      <h6> Create 3D Letter <br/> Modeling, Shader nodes, Lighting, Rendering </h6>
     <img src="" alt="" style="width: 100%; height: auto;"/>
    </td>
   </tr>
@@ -261,10 +261,10 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
       <img src="" alt="" style="width: 100%; height: auto;"/>
    </td>
 
-  <!-- Empty Cell -->
+  <!-- Futuristic Cuboid -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4></h4>
-      <h6></h6>
+      <h4> Futuristic Cuboid  </h4>
+      <h6> Modeling, Shader nodes, UV Unwrapping, Compositor nodes, Lighting, Rendering</h6>
       <img src="" alt="" style="width: 100%; height: auto;"/>
    </td>
   </tr>
