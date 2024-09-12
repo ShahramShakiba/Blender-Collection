@@ -94,6 +94,30 @@ https://github.com/user-attachments/assets/ac02a0a8-f85a-4f42-8462-5888a8dc168a
    </td>
   </tr>
 
+   <!--============================================================--> 
+   <tr>
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
+    </td>
+    
+ <!--=======  -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> </h4>
+      <h6> </h6>
+
+   </td>
+   
+ <!--======= 3D Artist -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> 3D Artist </h4>
+      <h6> Create 3D Letter <br/> Modeling, Shader nodes, Lighting, Rendering </h6> 
+    <img src="https://github.com/user-attachments/assets/04b507a9-c330-4ae4-a4e7-692635801c3b" alt="3D Artist" style="width: 100%; height: auto;"/>
+   </td>
+  </tr>
+
   <!--============================================================--> 
    <tr>
      <!--======= Toon Style Tea Scene -->
@@ -141,30 +165,7 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
       <img src="https://github.com/user-attachments/assets/5127e337-294e-4e19-a811-d04934448eb0" alt="Blender Planet and Rocket" width="100%" height="100%"/>
     </td>
  </tr>
- 
-  <!--============================================================--> 
-   <tr>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
-    
- <!--=======  -->
-   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4> </h4>
-      <h6> </h6>
 
-   </td>
-   
- <!--======= 3D Artist -->
-   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4> 3D Artist </h4>
-      <h6> Create 3D Letter <br/> Modeling, Shader nodes, Lighting, Rendering </h6>
-    <img src="" alt="" style="width: 100%; height: auto;"/>
-   </td>
-  </tr>
 
  <!--============================================================--> 
   <tr>
