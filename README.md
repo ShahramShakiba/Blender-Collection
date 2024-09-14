@@ -265,8 +265,10 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
   <!-- Futuristic Cuboid -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Futuristic Cuboid  </h4>
-      <h6> Modeling, Shader nodes, UV Unwrapping, Compositor nodes, Lighting, Rendering</h6>
-      <img src="" alt="" style="width: 100%; height: auto;"/>
+      <h6> Modeling, JS displacement, Shader nodes, UV Unwrapping, Compositor nodes, Lighting, Rendering</h6>
+
+https://github.com/user-attachments/assets/43fc3e59-9fbb-4bdc-bd94-801f02868449
+     
    </td>
   </tr>
   
