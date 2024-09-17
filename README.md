@@ -255,11 +255,13 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
        
    </td>
 
-  <!-- Empty Cell -->
+  <!-- Headphones Animation -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4></h4>
-      <h6></h6>
-      <img src="" alt="" style="width: 100%; height: auto;"/>
+      <h4>Headphones Animation</h4>
+      <h6>Product Presentation <br/> Lighting, Shader nodes, Camera Animation, Post Processing</h6>
+
+
+      
    </td>
 
   <!-- Futuristic Cuboid -->
