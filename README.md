@@ -258,9 +258,9 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
   <!-- Headphones Animation -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Headphones Animation  </h4>
-      <h6> ◉ Product Presentation  <br/> Lighting, Shader nodes, Camera Animation, Post Processing</h6>
+      <h6> ◉ Product Presentation  <br/> Lighting, Shader nodes, Camera Animation, Post Processing using Adobe Premiere</h6>
 
-
+https://github.com/user-attachments/assets/ab04ae2b-22a9-4f0d-89a5-d44dd8854b83
       
    </td>
 
