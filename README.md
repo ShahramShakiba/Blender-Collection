@@ -251,7 +251,7 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
     <!-- iPad Animation -->
     <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4>iPad Animation</h4>
-      <h6></h6>
+      <h6>◉ Product Presentation  <br/></h6>
        
    </td>
 
