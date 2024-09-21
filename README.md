@@ -251,7 +251,9 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
     <!-- iPad Animation -->
     <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4>iPad Animation</h4>
-      <h6>◉ Product Presentation  <br/> Lighting, Shader nodes, Camera Animation </h6>
+      <h6>◉ Product Presentation  <br/> Lighting, Shader nodes, Camera Animation, Post Processing using Adobe Premiere </h6>
+
+https://github.com/user-attachments/assets/0fd50d36-74a4-4342-8f5f-607fc67cdf16
        
    </td>
 
