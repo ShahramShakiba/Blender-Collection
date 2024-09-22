@@ -247,9 +247,41 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> Gallery of 3D Animations
 
 <table style="width: 100%; table-layout: fixed;">
-   <tr>
-    <!-- iPad Animation -->
+  <tr>
+    <!--  -->
     <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+
+  <!-- Empty Cell -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+
+  <!--  -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4> </h4>
+      <h6> </h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+
+   </td>
+  </tr>
+
+<!--================================================================================================--> 
+   <tr>
+     <!-- Empty Cell -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+   
+  <!-- iPad Animation -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4>iPad Animation</h4>
       <h6>◉ Product Presentation  <br/> Lighting, Shader nodes, Camera Animation, Post Processing using Adobe Premiere </h6>
 
@@ -265,8 +297,25 @@ https://github.com/user-attachments/assets/0fd50d36-74a4-4342-8f5f-607fc67cdf16
 https://github.com/user-attachments/assets/ab04ae2b-22a9-4f0d-89a5-d44dd8854b83
       
    </td>
+  </tr>
 
-  <!-- Futuristic Cuboid -->
+  <!--===================================================================================--> 
+  <tr>
+    <!--  -->
+    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+
+  <!-- Empty Cell -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+
+   <!-- Futuristic Cuboid -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Futuristic Cuboid  </h4>
       <h6> Modeling, JS displacement, Shader nodes, UV Unwrapping, Compositor nodes, Lighting, Rendering</h6>
@@ -276,7 +325,7 @@ https://github.com/user-attachments/assets/43fc3e59-9fbb-4bdc-bd94-801f02868449
    </td>
   </tr>
   
-  <!--==================================================================--> 
+  <!--=======================================================================================--> 
   <tr>
    <!-- Tranquil Landscape -->
   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
