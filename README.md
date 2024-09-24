@@ -265,31 +265,34 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
       <img src="" alt="" style="width: 100%; height: auto;"/>
    </td>
 
-  <!-- Empty Cell -->
+  <!--  -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4></h4>
       <h6></h6>
       <img src="" alt="" style="width: 100%; height: auto;"/>
    </td>
+  </tr>
 
-  <!--  -->
+<!--================================================================================================--> 
+ <tr>
+    <!--  -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> </h4>
       <h6> </h6>
       <img src="" alt="" style="width: 100%; height: auto;"/>
 
    </td>
-  </tr>
-
-<!--================================================================================================--> 
-   <tr>
-     <!-- Keyboard Animation -->
+   
+  <!-- Keyboard Animation -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4>Keyboard Animation</h4>
       <h6></h6>
       <img src="" alt="" style="width: 100%; height: auto;"/>
    </td>
+ </tr>
    
+<!--================================================================================================--> 
+  <tr>
   <!-- iPad Animation -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4>iPad Animation</h4>
@@ -318,13 +321,6 @@ https://github.com/user-attachments/assets/ab04ae2b-22a9-4f0d-89a5-d44dd8854b83
       <img src="" alt="" style="width: 100%; height: auto;"/>
    </td>
 
-  <!-- Empty Cell -->
-   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4></h4>
-      <h6></h6>
-      <img src="" alt="" style="width: 100%; height: auto;"/>
-   </td>
-
    <!-- Futuristic Cuboid -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Futuristic Cuboid  </h4>
@@ -346,6 +342,16 @@ https://github.com/user-attachments/assets/43fc3e59-9fbb-4bdc-bd94-801f02868449
        
    </td>
    
+  <!--  -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4></h4>
+      <h6></h6>
+      <img src="" alt="" style="width: 100%; height: auto;"/>
+   </td>
+ </tr>
+   
+  <!--=======================================================================================--> 
+ <tr>
  <!--======= Simulated Factory Animation -->
    <td style="vertical-align: top; width: 33%;">
       <h4> Simulated Factory Animation </h4>
@@ -385,8 +391,12 @@ https://github.com/user-attachments/assets/fd63bb76-467b-42ea-a847-4b7fdf557839
 https://github.com/user-attachments/assets/dac5217a-4342-4c0e-b0f2-f98f9ec9b573
 
    </td>
+  </tr>
 
- <!--======= Sci-Fi Hologram -->
+ <!--================================================================================================--> 
+
+<tr>
+  <!--======= Sci-Fi Hologram -->
    <td style="vertical-align: top; width: 33%;">
       <h4> Sci-Fi Hologram </h4>
       <h6> Using Subdivision, Displacement and Wireframe modifier </h6>
@@ -394,11 +404,7 @@ https://github.com/user-attachments/assets/dac5217a-4342-4c0e-b0f2-f98f9ec9b573
 https://github.com/user-attachments/assets/ef0c6eb5-a3aa-4814-ba00-86c9932355a6
 
    </td>
-  </tr>
-
- <!--================================================================================================--> 
-
-<tr>
+   
  <!--======= Ball Explosion -->
    <td style="vertical-align: top; width: 33%;">
       <h4> Ball Explosion </h4>
@@ -407,7 +413,10 @@ https://github.com/user-attachments/assets/ef0c6eb5-a3aa-4814-ba00-86c9932355a6
 https://github.com/user-attachments/assets/8f19aa9e-3405-4c7f-a7f0-689947d33d12
 
    </td>
-
+ </tr>
+ 
+<!--================================================================================================--> 
+<tr>
 <!--======= Rigid Body -->
    <td style="vertical-align: top; width: 33%;">
       <h4> Rigid Body </h4>
@@ -437,12 +446,7 @@ https://github.com/user-attachments/assets/890a7eec-16a5-42b1-b013-881f6762503c
 https://github.com/user-attachments/assets/d0ce90b3-3807-46ef-b4e1-08c159ba6598
    
    </td>
- <!--=======  -->
-   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4>  </h4>
-      <h6>  </h6>
-      <img src="" alt="" width="100%"/>
-    </td>
+
  <!--======= Dissolve Effect -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Dissolve Effect </h4>
@@ -451,11 +455,18 @@ https://github.com/user-attachments/assets/d0ce90b3-3807-46ef-b4e1-08c159ba6598
 https://github.com/user-attachments/assets/9a661529-9322-4a40-bfae-dbffe870005f
     
    </td>
-   </tr>
+  </tr>
    
  <!--================================================================================================--> 
 <tr>
-<!-- Swing Animation -->
+  <!--=======  -->
+   <td style="vertical-align: top; width: 33.33%; padding: 10px;">
+      <h4>  </h4>
+      <h6>  </h6>
+      <img src="" alt="" width="100%"/>
+    </td>
+ 
+   <!-- Swing Animation -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Swing Animation </h4>
       <h6> • Rigging <br/> All objects were prepped in advance; I just applied the animation. </h6>
@@ -463,7 +474,10 @@ https://github.com/user-attachments/assets/9a661529-9322-4a40-bfae-dbffe870005f
 https://github.com/user-attachments/assets/2d0154bf-f1f3-43cf-ab94-251cb165a839
 
    </td>
-
+ </tr>
+ 
+ <!--================================================================================================--> 
+<tr>
  <!-- Basic Animation -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Basic Animation </h4>
@@ -485,15 +499,8 @@ https://github.com/user-attachments/assets/1c9d51d4-7f99-4a0f-9c33-d370b46c9343
   
   <!--=================================================================================================--> 
 
-   <tr>
-    <!--  -->
-    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
-      <h4></h4>
-      <h6></h6>
-      <img src="" alt="" style="width: 100%; height: auto;"/>
-   </td>
-
-  <!-- Empty Cell -->
+ <tr>
+  <!--  -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4></h4>
       <h6></h6>
