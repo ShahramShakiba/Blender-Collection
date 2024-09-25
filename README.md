@@ -286,8 +286,10 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
   <!-- Keyboard Animation -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4>Keyboard Animation</h4>
-      <h6></h6>
-      <img src="" alt="" style="width: 100%; height: auto;"/>
+      <h6>◉ Product visualization  <br/> Lighting, Shader nodes, Camera Animation, Post Processing using Adobe Premiere</h6>
+
+https://github.com/user-attachments/assets/35a7daf7-21f6-472c-8473-34593ed9da30
+      
    </td>
  </tr>
    
@@ -296,7 +298,7 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
   <!-- iPad Animation -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4>iPad Animation</h4>
-      <h6>◉ Product Presentation  <br/> Lighting, Shader nodes, Camera Animation, Post Processing using Adobe Premiere </h6>
+      <h6>◉ Product visualization  <br/> Lighting, Shader nodes, Camera Animation, Post Processing using Adobe Premiere </h6>
 
 https://github.com/user-attachments/assets/0fd50d36-74a4-4342-8f5f-607fc67cdf16
        
@@ -305,7 +307,7 @@ https://github.com/user-attachments/assets/0fd50d36-74a4-4342-8f5f-607fc67cdf16
   <!-- Headphones Animation -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4> Headphones Animation  </h4>
-      <h6> ◉ Product Presentation  <br/> Lighting, Shader nodes, Camera Animation, Post Processing using Adobe Premiere</h6>
+      <h6> ◉ Product visualization  <br/> Lighting, Shader nodes, Camera Animation, Post Processing using Adobe Premiere</h6>
 
 https://github.com/user-attachments/assets/ab04ae2b-22a9-4f0d-89a5-d44dd8854b83
       
