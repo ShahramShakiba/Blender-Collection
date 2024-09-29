@@ -286,7 +286,7 @@ https://github.com/user-attachments/assets/a4fb9613-e20b-40db-9152-9288cbdab9b1
   <!-- Keyboard Animation -->
    <td style="vertical-align: top; width: 33.33%; padding: 10px;">
       <h4>Keyboard Animation</h4>
-      <h6>◉ Product visualization  <br/> Lighting, Shading, Camera Animation, Post Processing using Adobe Premiere</h6>
+      <h6>◉ Product visualization  <br/> Lighting, Shading, Camera Animation, Rendering, Post Processing using Adobe Premiere</h6>
 
 https://github.com/user-attachments/assets/35a7daf7-21f6-472c-8473-34593ed9da30
       
